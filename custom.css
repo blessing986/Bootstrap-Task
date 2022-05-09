@@ -1,0 +1,22 @@
+body{
+    padding: 1em 5em;
+}
+
+.head1{
+    color: #6c757c;
+}
+
+.head2{
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+}
+
+.bi{
+    color: #6c757c;
+    margin: 0px 16px;
+}
+
+.myheader{
+    border: 5px s;
+}
