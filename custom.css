@@ -30,6 +30,16 @@ a.head2:hover {
     color: #6c757c;
 }
 
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto;
+}
+
+.wrapper::-webkit-scrollbar{
+    width: 0;
+}
+
 .main {
     
     color: white;
