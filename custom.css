@@ -2,6 +2,11 @@ body {
     margin-top: 1em;
 }
 
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
 .head1 {
     color: #6c757c;
 }
@@ -23,15 +28,7 @@ a.head2:hover {
 
 .bi {
     color: #6c757c;
-    margin: 0px 16px;
 }
-
-/* @media(min-width:991px){
-    .space{
-        display: inline-flex;
-        justify-content: space-between;
-    }
-} */
 
 .main {
     
